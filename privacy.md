@@ -32,7 +32,7 @@ Signing in is optional and uses your **email address** (we email you a sign-in l
 
 When you **publish** a Table, other signed-in people can see its name, notes, owner kind, map pin and address, plus an anonymous count of matches played there and roughly when it was last played. They can't see who added it or who looks after it.
 
-If the Table is at a **private home**, others only see a rough area (about 1 km) and the suburb or town. They never see its address, its exact pin or its match counts. Publishing a home needs you to confirm it's your home or that you have the homeowner's permission.
+If the Table is at a **private home**, others only see a rough area (about half a mile) and the suburb or town. They never see its address, its exact pin or its match counts. Publishing a home needs you to confirm it's your home or that you have the homeowner's permission.
 
 Publishing can't be undone. If you delete your account, your published Tables stay listed, without any link to you, so other people's matches there keep their place. Matches recorded at a Public Table add to its anonymous match count.
 
