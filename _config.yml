@@ -1,0 +1,12 @@
+title: Pongle
+description: A ping-pong scorekeeper for iPhone and Apple Watch.
+theme: minima
+baseurl: "/pongle-site"
+url: "https://jonstephen.github.io"
+minima:
+  skin: dark
+header_pages:
+  - privacy.md
+  - terms.md
+  - support.md
+  - acknowledgements.md
