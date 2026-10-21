@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-_Last updated: 16 October 2026_
+_Last updated: 20 October 2026_
 
 Pongle is a scorekeeper for table tennis. This policy explains what Pongle stores, where, and what you can do about it. If you have a question, email **[jon.paulsen@gmail.com](mailto:jon.paulsen@gmail.com)**.
 
@@ -13,6 +13,7 @@ Pongle is a scorekeeper for table tennis. This policy explains what Pongle store
 - You can use Pongle without an account. Then everything stays on your device.
 - If you sign in, your players, matches and Tables are backed up so they sync across your devices.
 - Tables you **publish** can be seen by other signed-in people. A Table at a private home only ever shows a rough area to others, never its address.
+- If you **accept an Invite** to a player on someone else's list, you both see some of each other's details: they see your name and bat colour, and you see the matches they recorded with that player.
 - Pongle has no ads, no analytics and no tracking, and doesn't sell or share your data.
 
 ## Without an account
@@ -46,6 +47,24 @@ To keep Public Tables free of offensive content:
 
 We keep reports, hidden-Table lists, these requests and moderation decisions only as long as we need them to moderate Public Tables.
 
+## Invites and Claims
+
+If you're signed in, you can **invite** the person behind one of your players to claim that player. An Invite is a link, a QR code or a 10-character code. It works once and expires after 7 days, and you can cancel it.
+
+- **Anyone with the Invite**, signed in or not, can see your name, the player's name and how many matches that player has played, until the Invite is used, cancelled or expires.
+- **If they accept**, they've claimed that player. You'll then see their own name and bat colour for that player. They'll see the matches you recorded with that player, with your name and the other player's name, and future matches too. They can't change or delete your matches.
+- **We store** each Invite (who sent it, for which player, and whether it was accepted, declined or cancelled, and when), each claim (which account claimed which player, and when), and which of your matches you've removed from your history.
+
+If someone claimed one of your players:
+
+- You can't rename that player or change its colour. They choose those.
+- You can still delete the player or any match.
+
+If you claimed someone else's player:
+
+- **Remove from my history** hides one of their matches from your history. Their copy is unchanged.
+- **Leave** undoes the claim. Their matches with that player leave your history, and they see that player as they had it before.
+
 ## Location
 
 Pongle asks for your location only when you tap **Use my location** or the location button on the Tables map. It uses it to place a Table's pin or to show Tables near you. Your location isn't stored or sent anywhere, except as the pin of a Table you choose to save.
@@ -60,7 +79,9 @@ Pongle asks for your location only when you tap **Use my location** or the locat
 ## Deleting your data
 
 - **Sign Out** (in Account) clears your account's data from that device, once it's backed up.
-- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, private Tables, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed without any link to you.
+- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed without any link to you.
+  - Matches you recorded also leave the history of anyone who claimed one of your players.
+  - Any player you claimed goes back to how its owner had it.
 - Without an account, deleting the app deletes everything.
 
 You can also email **[jon.paulsen@gmail.com](mailto:jon.paulsen@gmail.com)** to ask what we hold about you, or to have it corrected or deleted.
