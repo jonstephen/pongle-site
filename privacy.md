@@ -13,6 +13,7 @@ Pongle is a scorekeeper for table tennis. This policy explains what Pongle store
 - You can use Pongle without an account. Then everything stays on your device.
 - If you sign in, your players, matches and Tables are backed up so they sync across your devices.
 - Tables you **publish** can be seen by other signed-in people. A Table at a private home only ever shows a rough area to others, never its address.
+- A **photo** you add to a Public Table is seen by others only once the moderator approves it, and never shows where it was taken.
 - If you **accept an Invite** to a player on someone else's list, you both see some of each other's details: they see your name and bat colour, and you see the matches they recorded with that player.
 - In a **Two-Phone Match**, the match is held on our servers while it's played, so both phones can show it. Joining one puts each of you on the other's list, as an Invite does.
 - Pongle has no ads, no analytics and no tracking, and doesn't sell or share your data.
@@ -38,12 +39,24 @@ If the Table is at a **private home**, others only see a rough area (about half 
 
 Publishing can't be undone. If you delete your account, your published Tables stay listed, without any link to you, so other people's matches there keep their place. Matches recorded at a Public Table add to its anonymous match count.
 
+## Table Photos
+
+If you look after a Public Table that isn't at a private home, you can add **one photo** of it, picked from your photo library. Pongle only sees the photo you pick, not the rest of your library.
+
+- **Before it's uploaded**, Pongle makes a new copy of the photo on your device, smaller and without its location, camera details or other hidden information.
+- **The moderator** sees it first. Nobody else sees it until the moderator approves it. If it isn't approved, you see why.
+- **Once approved**, other signed-in people who can see the Table see the photo. They aren't told who added it.
+- **We store** the photo, which Table it's of, which account added it and when, and the moderator's decision.
+- **It belongs to the Table.** It stays if you step down from looking after the Table or delete your account, and whoever looks after the Table next can replace or remove it.
+
+**Remove Photo** on your Table takes it down straight away. A photo is also deleted when it's replaced, not approved, taken down by the moderator, or when its Table becomes a private home. Its file is deleted from our servers within the hour. To have any Table's photo taken down, report it as "Problem with the photo" or email us.
+
 ## Keeping Public Tables safe
 
 To keep Public Tables free of offensive content:
 
 - Public Table names and notes are checked against a list of offensive words on our server. A Table with a listed word is hidden from others until it's reworded.
-- You can **report** a Public Table, with an optional note. Reports, and requests to look after a Table that has no one, go to the moderator by email.
+- You can **report** a Public Table or its photo, with an optional note. A reported photo is hidden from you straight away. Reports, and requests to look after a Table that has no one, go to the moderator by email.
 - You can **hide all Tables from whoever looks after a Table**. They aren't told.
 
 We keep reports, hidden-Table lists, these requests and moderation decisions only as long as we need them to moderate Public Tables.
@@ -85,7 +98,7 @@ Pongle asks for your location only when you tap **Use my location** or the locat
 
 ## Services Pongle uses
 
-- **Supabase** hosts Pongle's database and handles sign-in.
+- **Supabase** hosts Pongle's database and Table photos, and handles sign-in.
 - **Resend** delivers the moderator's emails. These contain report details and Table names, not your email address.
 - **Apple Maps** looks up addresses and searches for places when you add a Table.
 - **Apple Health** receives workouts you choose to record on Apple Watch. They stay in your Health data and aren't sent to Pongle's servers.
