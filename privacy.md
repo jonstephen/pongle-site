@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-_Last updated: 23 October 2026_
+_Last updated: 26 October 2026_
 
 Pongle is a scorekeeper for table tennis. This policy explains what Pongle stores, where, and what you can do about it. If you have a question, email **[jon.paulsen@gmail.com](mailto:jon.paulsen@gmail.com)**.
 
@@ -15,6 +15,7 @@ Pongle is a scorekeeper for table tennis. This policy explains what Pongle store
 - Tables you **publish** can be seen by other signed-in people. A Table at a private home only ever shows a rough area to others, never its address.
 - A **photo** you add to a Public Table is seen by others only once the moderator approves it, and never shows where it was taken.
 - If you **accept an Invite** to a player on someone else's list, you both see some of each other's details: they see your name and bat colour, and you see the matches they recorded with that player.
+- In a **Two-Phone Match**, the match is held on our servers while it's played, so both phones can show it. Joining one puts each of you on the other's list, as an Invite does.
 - Pongle has no ads, no analytics and no tracking, and doesn't sell or share your data.
 
 ## Without an account
@@ -78,6 +79,19 @@ If you claimed someone else's player:
 - **Remove from my history** hides one of their matches from your history. Their copy is unchanged.
 - **Leave** undoes the claim. Their matches with that player leave your history, and they see that player as they had it before.
 
+## Two-Phone Matches
+
+If you're signed in, you and another signed-in person can score one match on two phones, each scoring your own points. One of you starts it and shows a QR code (a **Join code**); the other scans it to **join**.
+
+- **While it's played**, the match is held on our servers: the points, who serves first, the scoring rules, the Table if one was chosen, and when each phone was last seen. Only the two of you can see it. When it ends, it's kept like any other match, in the history of whoever started it.
+- **Anyone who scans the Join code**, signed in or not, can see the name of whoever started the match, until a phone joins.
+- **Joining** links each of you to a player on the other's list, as accepting an Invite does (see above). Each phone asks which of its players, if any, is the other person. If the chosen player already has matches, the other person confirms they were them before those matches count for them. Otherwise they get a new player. You can **Leave** these later, as with any claim.
+- **We store** each phone's answers while you join, and remove the live match a day after it ends.
+
+## Camera
+
+Pongle uses the camera only when you tap **Scan a Join Code**, to read the QR code. Nothing the camera sees is stored or sent anywhere.
+
 ## Location
 
 Pongle asks for your location only when you tap **Use my location** or the location button on the Tables map. It uses it to place a Table's pin or to show Tables near you. Your location isn't stored or sent anywhere, except as the pin of a Table you choose to save.
@@ -92,7 +106,7 @@ Pongle asks for your location only when you tap **Use my location** or the locat
 ## Deleting your data
 
 - **Sign Out** (in Account) clears your account's data from that device, once it's backed up.
-- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
+- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
   - Matches you recorded also leave the history of anyone who claimed one of your players.
   - Any player you claimed goes back to how its owner had it.
 - Without an account, deleting the app deletes everything.
