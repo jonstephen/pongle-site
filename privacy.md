@@ -106,7 +106,7 @@ Pongle asks for your location only when you tap **Use my location** or the locat
 ## Deleting your data
 
 - **Sign Out** (in Account) clears your account's data from that device, once it's backed up.
-- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed without any link to you.
+- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
   - Matches you recorded also leave the history of anyone who claimed one of your players.
   - Any player you claimed goes back to how its owner had it.
 - Without an account, deleting the app deletes everything.
