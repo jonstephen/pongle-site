@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-_Last updated: 26 October 2026_
+_Last updated: 7 November 2026_
 
 Pongle is a scorekeeper for table tennis. This policy explains what Pongle stores, where, and what you can do about it. If you have a question, email **[jon.paulsen@gmail.com](mailto:jon.paulsen@gmail.com)**.
 
@@ -16,6 +16,7 @@ Pongle is a scorekeeper for table tennis. This policy explains what Pongle store
 - A **photo** you add to a Public Table is seen by others only once the moderator approves it, and never shows where it was taken.
 - If you **accept an Invite** to a player on someone else's list, you both see some of each other's details: they see your name and bat colour, and you see the matches they recorded with that player.
 - In a **Two-Phone Match**, the match is held on our servers while it's played, so both phones can show it. Joining one puts each of you on the other's list, as an Invite does.
+- A **Meetup** (Play Later) is a Table and a time you plan with someone you know. It's held on our servers until a day after its time. Once they accept, they see exactly where the Table is, even at a home, and each of you is put on the other's list.
 - Pongle has no ads, no analytics and no tracking, and doesn't sell or share your data.
 
 ## Without an account
@@ -88,6 +89,16 @@ If you're signed in, you and another signed-in person can score one match on two
 - **Joining** links each of you to a player on the other's list, as accepting an Invite does (see above). Each phone asks which of its players, if any, is the other person. If the chosen player already has matches, the other person confirms they were them before those matches count for them. Otherwise they get a new player. You can **Leave** these later, as with any claim.
 - **We store** each phone's answers while you join, and remove the live match a day after it ends.
 
+## Meetups
+
+If you're signed in, **Play Later** plans a Meetup: a Table, a time and one person from your players, or someone new by name. Pongle doesn't look anyone up. You send them a link, and a calendar file, yourself, for example in Messages.
+
+- **Anyone with the link**, signed in or not, can see your name, the name you gave them, the time, and the Table's name and town or suburb. Not its address.
+- **If they accept**, they see the Table's exact location and address, even if it's your home or a private Table, and only through that Meetup. Each of you is linked to a player on the other's list, as accepting an Invite does (see above).
+- **If they decline**, or say later they can't make it, you see that.
+- **We store** each Meetup (who planned it, for which player, the Table, the time, the answer and when it changed) until a day after its time, then delete it.
+- **Calendar:** Add to Calendar opens your phone's own event editor, filled in. Pongle doesn't read your calendar or ask for access to it.
+
 ## Camera
 
 Pongle uses the camera only when you tap **Scan a Join Code**, to read the QR code. Nothing the camera sees is stored or sent anywhere.
@@ -106,7 +117,7 @@ Pongle asks for your location only when you tap **Use my location** or the locat
 ## Deleting your data
 
 - **Sign Out** (in Account) clears your account's data from that device, once it's backed up.
-- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
+- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your Meetups are cancelled, so the other person sees that they're off, and deleted a day after their time. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
   - Matches you recorded also leave the history of anyone who claimed one of your players.
   - Any player you claimed goes back to how its owner had it.
 - Without an account, deleting the app deletes everything.
