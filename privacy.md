@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-_Last updated: 7 November 2026_
+_Last updated: 9 November 2026_
 
 Pongle is a scorekeeper for table tennis. This policy explains what Pongle stores, where, and what you can do about it. If you have a question, email **[jon.paulsen@gmail.com](mailto:jon.paulsen@gmail.com)**.
 
@@ -13,7 +13,7 @@ Pongle is a scorekeeper for table tennis. This policy explains what Pongle store
 - You can use Pongle without an account. Then everything stays on your device.
 - If you sign in, your players, matches and Tables are backed up so they sync across your devices.
 - Tables you **publish** can be seen by other signed-in people. A Table at a private home only ever shows a rough area to others, never its address.
-- A **photo** you add to a Public Table is seen by others only once the moderator approves it, and never shows where it was taken.
+- A **photo** you add to a Public Table is seen by others only once the moderator approves it, and never shows where it was taken. A photo of a private Table or a home is seen only by you and by whoever accepts a Meetup there.
 - If you **accept an Invite** to a player on someone else's list, you both see some of each other's details: they see your name and bat colour, and you see the matches they recorded with that player.
 - In a **Two-Phone Match**, the match is held on our servers while it's played, so both phones can show it. Joining one puts each of you on the other's list, as an Invite does.
 - A **Meetup** (Play Later) is a Table and a time you plan with someone you know. It's held on our servers until a day after its time. Once they accept, they see exactly where the Table is, even at a home, and each of you is put on the other's list.
@@ -42,15 +42,15 @@ Publishing can't be undone. If you delete your account, your published Tables st
 
 ## Table Photos
 
-If you look after a Public Table that isn't at a private home, you can add **one photo** of it, picked from your photo library. Pongle only sees the photo you pick, not the rest of your library.
+You can add **one photo** of a Table you look after, picked from your photo library. Pongle only sees the photo you pick, not the rest of your library.
 
 - **Before it's uploaded**, Pongle makes a new copy of the photo on your device, smaller and without its location, camera details or other hidden information.
-- **The moderator** sees it first. Nobody else sees it until the moderator approves it. If it isn't approved, you see why.
-- **Once approved**, other signed-in people who can see the Table see the photo. They aren't told who added it.
+- **On a Public Table that isn't at a private home**, the moderator sees it first. Nobody else sees it until the moderator approves it. If it isn't approved, you see why. Once approved, other signed-in people who can see the Table see the photo. They aren't told who added it.
+- **On a private Table or a Table at a home**, the moderator doesn't check the photo. Only you see it, and someone who has accepted a Meetup with you there (see Meetups). People browsing a published home never see it. If you publish a private Table, its photo goes to the moderator first.
 - **We store** the photo, which Table it's of, which account added it and when, and the moderator's decision.
 - **It belongs to the Table.** It stays if you step down from looking after the Table or delete your account, and whoever looks after the Table next can replace or remove it.
 
-**Remove Photo** on your Table takes it down straight away. A photo is also deleted when it's replaced, not approved, taken down by the moderator, or when its Table becomes a private home. Its file is deleted from our servers within the hour. To have any Table's photo taken down, report it as "Problem with the photo" or email us.
+**Remove Photo** on your Table takes it down straight away. A photo is also deleted when it's replaced, not approved, taken down by the moderator, or when its Table is deleted. Its file is deleted from our servers within the hour. If a Public Table becomes a private home, its photo stays, but from then on only you and Meetup guests see it. To have any Table's photo taken down, report it as "Problem with the photo" or email us.
 
 ## Keeping Public Tables safe
 
@@ -94,7 +94,7 @@ If you're signed in, you and another signed-in person can score one match on two
 If you're signed in, **Play Later** plans a Meetup: a Table, a time and one person from your players, or someone new by name. Pongle doesn't look anyone up. You send them a link, and a calendar file, yourself, for example in Messages.
 
 - **Anyone with the link**, signed in or not, can see your name, the name you gave them, the time, and the Table's name and town or suburb. Not its address.
-- **If they accept**, they see the Table's exact location and address, even if it's your home or a private Table, and only through that Meetup. Each of you is linked to a player on the other's list, as accepting an Invite does (see above).
+- **If they accept**, they see the Table's exact location and address, and its photo if it has one, even if it's your home or a private Table, and only through that Meetup. Each of you is linked to a player on the other's list, as accepting an Invite does (see above).
 - **If they decline**, or say later they can't make it, you see that.
 - **We store** each Meetup (who planned it, for which player, the Table, the time, the answer and when it changed) until a day after its time, then delete it.
 - **Calendar:** Add to Calendar opens your phone's own event editor, filled in. Pongle doesn't read your calendar or ask for access to it.
@@ -117,7 +117,7 @@ Pongle asks for your location only when you tap **Use my location** or the locat
 ## Deleting your data
 
 - **Sign Out** (in Account) clears your account's data from that device, once it's backed up.
-- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your Meetups are cancelled, so the other person sees that they're off, and deleted a day after their time. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
+- **Delete Account** (in Account) deletes your account and, from our servers, your players, matches, Two-Phone Matches you started, private Tables and their photos, Invites, claims, reports, hidden-Table lists, requests and terms acceptance. Your Meetups are cancelled, so the other person sees that they're off, and deleted a day after their time. Your published Tables stay listed, with their photos, without any link to you. To take a photo down first, use Remove Photo.
   - Matches you recorded also leave the history of anyone who claimed one of your players.
   - Any player you claimed goes back to how its owner had it.
 - Without an account, deleting the app deletes everything.

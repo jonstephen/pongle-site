@@ -28,7 +28,7 @@ Whoever looks after a Public Table can add one photo of it. The photo must:
 - contain nothing offensive;
 - be one you took, or one you have the right to share.
 
-The moderator approves every photo before anyone else sees it, and can take one down at any time. Photos are never shown for a Table at a private home: making a Table a private home deletes its photo. A photo belongs to the Table, so it stays if you step down or delete your account. To have one taken down, report it as "Problem with the photo" or email us.
+The moderator approves every photo before anyone else sees it, and can take one down at any time. A photo of a Table at a private home is never shown to people browsing Tables: only whoever looks after it, and someone who accepted a Meetup there, see it. A photo belongs to the Table, so it stays if you step down or delete your account. To have one taken down, report it as "Problem with the photo" or email us.
 
 ## Looking after a Table
 
